@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kommuru-Jayavardhan-Reddy
 - 👀 I’m interested in studies, movies, games
-- 🌱 I’m currently learning  html, css, Js
+- 🌱 I’m currently learning  html, css, Js and coding 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 9381602129
 - 😄 Pronouns: he/him
